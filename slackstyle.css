@@ -1,25 +1,22 @@
-@-moz-document domain(app.slack.com)
+.p-message_file
 {
-  .p-message_file
-  {
-    width: fit-content;
-    max-width: 1000px;
-  }
+  width: fit-content;
+  max-width: 1000px;
+}
 
-  .c-pillow_file__email--expanded
-  {
-    width: fit-content;
-  }
+.c-pillow_file__email--expanded
+{
+  width: fit-content;
+}
 
-  .p-message_file--email
-  {
-    max-width: none;
-  }
+.p-message_file--email
+{
+  max-width: none;
+}
 
-  .p-message_file
-  {
-    max-width: none;
-  }
+.p-message_file
+{
+  max-width: none;
 }
 
 @media screen and (min-width: 1600px)
